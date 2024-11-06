@@ -1,0 +1,38 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * bourbon:
+ *   - http://typekit.com/eulas/0000000000000000000171b8
+ * nobel:
+ *   - http://typekit.com/eulas/00000000000000003b9ae84c
+ *   - http://typekit.com/eulas/00000000000000003b9ae84e
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-03-15 17:06:52 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=fgu3qqr&ht=tk&f=25254.31229.31231&a=5381616&app=typekit&e=css");
+
+@font-face {
+font-family:"bourbon";
+src:url("https://use.typekit.net/af/5d6ecf/0000000000000000000171b8/27/l?primer=057d1dff47772f391f5f6c189aa213bb70116047eaffac2e52d3626ff163c8d1&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/5d6ecf/0000000000000000000171b8/27/d?primer=057d1dff47772f391f5f6c189aa213bb70116047eaffac2e52d3626ff163c8d1&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/5d6ecf/0000000000000000000171b8/27/a?primer=057d1dff47772f391f5f6c189aa213bb70116047eaffac2e52d3626ff163c8d1&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"nobel";
+src:url("https://use.typekit.net/af/9e0ad7/00000000000000003b9ae84c/27/l?primer=057d1dff47772f391f5f6c189aa213bb70116047eaffac2e52d3626ff163c8d1&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/9e0ad7/00000000000000003b9ae84c/27/d?primer=057d1dff47772f391f5f6c189aa213bb70116047eaffac2e52d3626ff163c8d1&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/9e0ad7/00000000000000003b9ae84c/27/a?primer=057d1dff47772f391f5f6c189aa213bb70116047eaffac2e52d3626ff163c8d1&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"nobel";
+src:url("https://use.typekit.net/af/cab4b1/00000000000000003b9ae84e/27/l?primer=057d1dff47772f391f5f6c189aa213bb70116047eaffac2e52d3626ff163c8d1&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/cab4b1/00000000000000003b9ae84e/27/d?primer=057d1dff47772f391f5f6c189aa213bb70116047eaffac2e52d3626ff163c8d1&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/cab4b1/00000000000000003b9ae84e/27/a?primer=057d1dff47772f391f5f6c189aa213bb70116047eaffac2e52d3626ff163c8d1&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-bourbon { font-family: "bourbon",serif; }
+.tk-nobel { font-family: "nobel",sans-serif; }
